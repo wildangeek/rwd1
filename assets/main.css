@@ -1,0 +1,29 @@
+header img {
+    width: 60%;
+    margin-bottom: -40px;
+    margin-top: 20px;
+    /* height: 400px; */
+  }
+  
+  div img {
+    max-width: 90%;
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  body {
+    text-align: center;
+  }
+  
+  div {
+    max-width: 20%;
+    display: inline-block;
+    margin: 50px 30px;
+  }
+  
+  h5 {
+    text-align: center;
+    margin-top: 0;
+    font-family: "Noto Sans", sans-serif;
+    font-size: 20px;
+  }

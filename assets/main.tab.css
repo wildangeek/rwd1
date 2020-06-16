@@ -1,0 +1,13 @@
+  
+header img {
+    width: 100%;
+    margin-bottom: -40px;
+    margin-top: 20px;
+    /* height: 400px; */
+  }
+  
+  div {
+    max-width: 40%;
+    display: inline-block;
+    justify-content: center;
+  }
